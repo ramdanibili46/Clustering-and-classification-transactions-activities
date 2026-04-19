@@ -1,1 +1,1 @@
-# Machine Learning Submission: Clustering & Classification transaction activities bank customer
+## Clustering & Classification of Bank Customer Transaction Activities
